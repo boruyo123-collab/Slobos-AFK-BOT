@@ -8,7 +8,7 @@
   "server": {
     "ip": "NamVGN.aternos.me",
     "port": 29137,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
